@@ -1,0 +1,4 @@
+pkg install python
+pkg install php
+clear
+python main.py
