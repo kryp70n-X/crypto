@@ -8,7 +8,7 @@
     apt update
     apt upgrade
     pkg install git
-    git clone: https://github.com/kryp70n-X/crypto
+    git clone https://github.com/kryp70n-X/crypto
     cd $HOME
     cd crypto
     chmod +x setup
